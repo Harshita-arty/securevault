@@ -1,0 +1,6 @@
+[2025-07-14 18:54:28] User: harshi | Action: LOGIN
+[2025-07-14 18:54:44] User: harshi | Action: ENCRYPT | File: hello.txt
+[2025-07-14 18:54:55] User: harshi | Action: DECRYPT | File: hello.txt.enc
+[2025-07-14 18:57:02] User: harshi | Action: LOGIN
+[2025-07-14 18:57:18] User: harshi | Action: ENCRYPT | File: hello.txt
+[2025-07-14 18:58:35] User: harshi | Action: DECRYPT | File: hello.txt.enc
